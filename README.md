@@ -35,7 +35,7 @@ The trained sentiment analysis model was evaluated using metrics such as accurac
 The `sentiment_analysis.py` script performs sentiment analysis on customer reviews using the `TextBlob` library. It classifies reviews as positive, negative, or neutral and saves the results to a CSV file.
 
 ### Analysis and Insights
-The `analysis_and_insights.ipynb` notebook analyzes sentiment distribution, sentiment trends over time (if date information is available), and creates word clouds for positive, negative, and neutral reviews.
+The `analysis_and_insights.py` notebook analyzes sentiment distribution, sentiment trends over time (if date information is available), and creates word clouds for positive, negative, and neutral reviews.
 
 ## Usage
 
