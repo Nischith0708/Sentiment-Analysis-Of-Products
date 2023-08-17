@@ -39,7 +39,7 @@ The `analysis_and_insights.ipynb` notebook analyzes sentiment distribution, sent
 
 ## Usage
 
-1. Frameworks Used: `pip install pandas textblob matplotlib seaborn wordcloud`
+1. Frameworks Used: `Pandas, textblob, matplotlib, seaborn, wordcloud`
 
 2. Input data:
    - Create a CSV file for example `dandruff_reviews.csv` with customer reviews.
