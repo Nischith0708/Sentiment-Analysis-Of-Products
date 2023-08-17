@@ -1,4 +1,4 @@
-# Sentiment-Analysis-On-Products Reviews
+# Sentiment-Analysis-On-Product Reviews
 
 ![Sentiment Analysis](sentiment.png)
 
